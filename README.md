@@ -1,3 +1,5 @@
-# some_test
+# strudel samples for strudel for samples in strudel
 
-right, thats just some samples for strudel.cc
+"p" for "pavlov"
+
+"samples" for "science"
