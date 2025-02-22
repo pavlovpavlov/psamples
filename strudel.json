@@ -1,369 +1,369 @@
 
-{"_base": "https://raw.githubusercontent.com/pavlovpavlov/psamples/main/",
+{"_base": "https://raw.githubusercontent.com/pavlovpavlov/samples/main/",
 
 
 "pperc":
 [
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 9.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 1.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 8.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 7.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 6.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 3.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 2.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 5.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 4.wav",
-"/psamples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 10.wav"
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 9.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 1.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 8.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 7.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 6.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 3.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 2.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 5.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 4.wav",
+"/samples/DrumOneShots/Percussion/Cymatics - Horizon Percussion 10.wav"
 ]
 ,
 
 "pkick":
 [
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 6 - D#.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 8 - E.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 7 - E.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 10 - G.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 1 - C.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 9 - F#.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 11 - G.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 5 - D#.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 14 - A.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 4 - D.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 3 - D.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 13 - G#.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 8 - F.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 15 - A#.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 12 - G#.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 2 - C.wav",
-"/psamples/DrumOneShots/Kicks/Cymatics - Horizon Kick 16 - B.wav"
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 6 - D#.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 8 - E.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 7 - E.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 10 - G.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 1 - C.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 9 - F#.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 11 - G.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 5 - D#.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 14 - A.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 4 - D.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 3 - D.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 13 - G#.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 8 - F.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 15 - A#.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 12 - G#.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 2 - C.wav",
+"/samples/DrumOneShots/Kicks/Cymatics - Horizon Kick 16 - B.wav"
 ]
 ,
 
 "psnare":
 [
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 11 - F.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 7 - D#.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 6 - D#.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 2 - C.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 12 - G.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 9 - E.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 13 - A#.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 8 - E.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 1 - C.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 5 - D.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 4 - D.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 10 - F.wav",
-"/psamples/DrumOneShots/Snares/Cymatics - Horizon Snare 3 - C#.wav"
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 11 - F.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 7 - D#.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 6 - D#.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 2 - C.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 12 - G.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 9 - E.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 13 - A#.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 8 - E.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 1 - C.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 5 - D.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 4 - D.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 10 - F.wav",
+"/samples/DrumOneShots/Snares/Cymatics - Horizon Snare 3 - C#.wav"
 ]
 ,
 
 "pcymbal":
 [
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 7.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 6.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 7.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 4.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 3.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 4.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 5.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 1.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 5.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 3.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 2.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 5.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 6.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 2.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 5.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 3.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 1.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 2.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 4.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 2.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 1.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 4.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 3.wav",
-"/psamples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 1.wav"
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 7.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 6.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 7.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 4.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 3.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 4.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 5.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 1.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 5.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 3.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 2.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 5.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 6.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 2.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 5.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 3.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 1.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 2.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Crash 4.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 2.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Closed Hihat 1.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Open Hihat 4.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 3.wav",
+"/samples/DrumOneShots/Cymbals/Cymatics - Horizon Ride 1.wav"
 ]
 ,
 
 "pclap":
 [
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 9.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 5.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 3.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 1.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 2.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 10.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 4.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 8.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 6.wav",
-"/psamples/DrumOneShots/Claps/Cymatics - Horizon Clap 7.wav"
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 9.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 5.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 3.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 1.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 2.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 10.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 4.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 8.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 6.wav",
+"/samples/DrumOneShots/Claps/Cymatics - Horizon Clap 7.wav"
 ]
 ,
 
 "pimpact":
 [
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 5.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 8.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 4.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 2.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 1.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 7.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 6.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 3.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 10.wav",
-"/psamples/FX/Impacts/Cymatics - Horizon Impact 9.wav"
+"/samples/FX/Impacts/Cymatics - Horizon Impact 5.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 8.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 4.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 2.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 1.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 7.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 6.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 3.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 10.wav",
+"/samples/FX/Impacts/Cymatics - Horizon Impact 9.wav"
 ]
 ,
 
 
 "pride":
 [
-"/psamples/FX/Risers/Cymatics - Horizon Tonal Riser 1 - 122 BPM D.wav",
-"/psamples/FX/Risers/Cymatics - Horizon Tonal Riser 5 - 128 BPM G#.wav",
-"/psamples/FX/Risers/Cymatics - Horizon Tonal Riser 2 - 124 BPM F.wav",
-"/psamples/FX/Risers/Cymatics - Horizon Tonal Riser 3 - 126 BPM F.wav",
-"/psamples/FX/Risers/Cymatics - Horizon Tonal Riser 4 - 128 BPM D#.wav"
+"/samples/FX/Risers/Cymatics - Horizon Tonal Riser 1 - 122 BPM D.wav",
+"/samples/FX/Risers/Cymatics - Horizon Tonal Riser 5 - 128 BPM G#.wav",
+"/samples/FX/Risers/Cymatics - Horizon Tonal Riser 2 - 124 BPM F.wav",
+"/samples/FX/Risers/Cymatics - Horizon Tonal Riser 3 - 126 BPM F.wav",
+"/samples/FX/Risers/Cymatics - Horizon Tonal Riser 4 - 128 BPM D#.wav"
 ]
 ,
 
 "pdownlift":
 [
-"/psamples/FX/Downlifters/Cymatics - Horizon Downlifter 1 - D.wav",
-"/psamples/FX/Downlifters/Cymatics - Horizon Downlifter 3 - E.wav",
-"/psamples/FX/Downlifters/Cymatics - Horizon Downlifter 2 - D#.wav",
-"/psamples/FX/Downlifters/Cymatics - Horizon Downlifter 4 - F#.wav"
+"/samples/FX/Downlifters/Cymatics - Horizon Downlifter 1 - D.wav",
+"/samples/FX/Downlifters/Cymatics - Horizon Downlifter 3 - E.wav",
+"/samples/FX/Downlifters/Cymatics - Horizon Downlifter 2 - D#.wav",
+"/samples/FX/Downlifters/Cymatics - Horizon Downlifter 4 - F#.wav"
 ]
 ,
 
 "pwhite":
 [
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Up 3 - 125 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Down 3 - 126 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Down 4 - 128 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Up 2 - 124 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Down 1 - 122 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Up 1 - 122 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Up 4 - 126 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Up 5 - 128 BPM.wav",
-"/psamples/FX/White Noise/Cymatics - Horizon White Noise Down 2 - 125 BPM.wav"
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Up 3 - 125 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Down 3 - 126 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Down 4 - 128 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Up 2 - 124 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Down 1 - 122 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Up 1 - 122 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Up 4 - 126 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Up 5 - 128 BPM.wav",
+"/samples/FX/White Noise/Cymatics - Horizon White Noise Down 2 - 125 BPM.wav"
 ]
 ,
 
 "pshot":
 [
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 7 - G#.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Bass Shot 2 - C#.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 5 - E.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 1 - C.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 4 - D.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Bass Shot 4 - E.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 2 - C.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 3 - C.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Bass Shot 5 - G#.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 8 - B.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Bass Shot 3 - D#.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Bass Shot 1 - C.wav",
-"/psamples/SynthOneShots/Cymatics - Horizon Synth Shot 6 - F#.wav"
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 7 - G#.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Bass Shot 2 - C#.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 5 - E.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 1 - C.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 4 - D.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Bass Shot 4 - E.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 2 - C.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 3 - C.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Bass Shot 5 - G#.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 8 - B.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Bass Shot 3 - D#.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Bass Shot 1 - C.wav",
+"/samples/SynthOneShots/Cymatics - Horizon Synth Shot 6 - F#.wav"
 ]
 ,
 
 "pdrop":
 [
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min.wav"
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min.wav"
 ]
 ,
 
 "pdrop1":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Bass.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Lead.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Bass.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 17 - 128 BPM A Min Lead.wav"
 ]
 ,
 
 "pdrop2":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Bass.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min Bass.wav"
 ]
 ,
 
 "pdrop3":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Bass 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Bass 1.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Sub.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Bass 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Bass 1.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Stems/Cymatics - Horizon Drop Loop 1 - 128 BPM C# Min Sub.wav"
 ]
 ,
 
 "pdrop4":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Lead.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 13 - 128 BPM G Min Lead.wav"
 ]
 ,
 
 "pdrop5":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Bass.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Stems/Cymatics - Horizon Drop Loop 18 - 128 BPM B Min Bass.wav"
 ]
 ,
 
 "pdrop6":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Bass.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 4 - 128 BPM E Min Bass.wav"
 ]
 ,
 
 "pdrop7":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Bass.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Stems/Cymatics - Horizon Drop Loop 16 - 128 BPM A Min Bass.wav"
 ]
 ,
 
 "pdrop8":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Bass.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Stems/Cymatics - Horizon Drop Loop 12 - 128 BPM G Min Bass.wav"
 ,
 
 "pdrop9":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Lead 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Chords 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Lead 1.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Lead 3.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Chords 1.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Bass 1.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Bass 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Chords 3.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Lead 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Chords 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Lead 1.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Lead 3.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Chords 1.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Bass 1.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Bass 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 5 - 128 BPM E Min Chords 3.wav"
 ]
 ,
 
 "pdrop10":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Bass.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Ambience.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Bass.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Stems/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min Ambience.wav"
 ]
 ,
 
 "pdrop11":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Bass.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Lead.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Bass.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 8 - 128 BPM F Min Lead.wav"
 ]
 ,
 
 "pdrop12":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Bass.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 14 - 128 BPM G# Min Bass.wav"
 ]
 ,
 
 "pdrop13":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Bass.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Sub.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Bass.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min Sub.wav"
 ]
 ,
 
 "pdrop14":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Chords 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Chords 1.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Lead 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Bass.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Lead 3.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Lead 1.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Chords 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Chords 1.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Lead 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Bass.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Lead 3.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Stems/Cymatics - Horizon Drop Loop 2 - 128 BPM D Maj Lead 1.wav"
 ]
 ,
 
 "pdrop15":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Sub.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Chords 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Bass.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Chords 3.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Lead 1.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Lead 2.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Chords 1.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Sub.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Chords 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Bass.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Chords 3.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Lead 1.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Lead 2.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Stems/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min Chords 1.wav"
 ]
 ,
 
 "pdrop16":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Bass.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Sub.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Bass.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Stems/Cymatics - Horizon Drop Loop 10 - 128 BPM F# Min Sub.wav"
 ]
 ,
 
 "pdrop17":
 [
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Lead.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Chords.wav",
-"/psamples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Sub.wav"
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Lead.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Chords.wav",
+"/samples/SynthLoops/Drop Loops/Loop Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Stems/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min Sub.wav"
 ]
 ,
 
 "pdrop18":
 [
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min.wav",
-"/psamples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min.wav"
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 11 - 128 BPM F# Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 9 - 128 BPM F Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 6 - 128 BPM E Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 3 - 128 BPM E Min.wav",
+"/samples/SynthLoops/Drop Loops/Cymatics - Horizon Drop Loop 15 - 128 BPM G# Min.wav"
 ]
 ,
 
 "pbreak":
 [
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 1 - 128 BPM C Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 17 - 128 BPM G# Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 4 - 128 BPM E Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 18 - 128 BPM G# Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 13 - 128 BPM G Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 8 - 128 BPM F Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 5 - 128 BPM E Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 15 - 128 BPM G Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 2 - 128 BPM C Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 11 - 128 BPM F# Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 6 - 128 BPM E Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 14 - 128 BPM G Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 3 - 128 BPM D Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 10 - 128 BPM F# Min.wav",
-"/psamples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 12 - 128 BPM F# Min.wav"
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 1 - 128 BPM C Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 17 - 128 BPM G# Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 4 - 128 BPM E Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 18 - 128 BPM G# Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 13 - 128 BPM G Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 8 - 128 BPM F Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 5 - 128 BPM E Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 15 - 128 BPM G Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 2 - 128 BPM C Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 11 - 128 BPM F# Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 6 - 128 BPM E Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 14 - 128 BPM G Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 3 - 128 BPM D Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 10 - 128 BPM F# Min.wav",
+"/samples/SynthLoops/Breakdown Loops/Cymatics - Horizon Breakdown Loop 12 - 128 BPM F# Min.wav"
 ]
 }
